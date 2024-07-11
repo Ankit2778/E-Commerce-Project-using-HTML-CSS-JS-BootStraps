@@ -1,0 +1,57 @@
+@media (max-width: 991px) {
+
+
+.text-content{
+    width: 100%;
+
+}
+
+.navigation-wrap .navbar-brand img{
+    height: 58px;
+
+}
+.navigation-wrap{
+    text-align: center;
+    background-color: #fff;
+
+}
+.navigation-wrap .nav-link{
+    line-height: 30px;
+}
+.top-banner{
+    padding: 150px 0 150px;
+}
+.review-section .carousel-item .carousel-caption p{
+    padding: 0;
+}
+
+    
+}
+
+@media (max-width:767px) {
+    h1{
+        font-size: 45px;
+    }
+    h2{
+        font-size: 45px;
+        line-height: 35px;
+    }
+    .top-banner{
+        padding: 170px 0 150px;
+    }
+    .story-section{
+        height: auto;
+        padding: 48px 0 ;
+    }
+    .review-section .carousel-item {
+        padding: 176px 50px;
+    }
+    
+
+}
+@media (max-width : 330px) {
+
+      .review-section .carousel-item {
+        padding: 210px 50px ;
+      }
+}
